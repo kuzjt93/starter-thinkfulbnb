@@ -193,7 +193,7 @@ footer p {
     }
     /* -------  Search Form ------- */
     form {
-        justify-content: space-evenly;
+        justify-content: space-between;
         border: 2px solid #ff385c;
         padding: 10px;
     }
@@ -203,7 +203,7 @@ footer p {
     form select,
     form input {
         margin-bottom: 10px;
-        width: 100%;
+        width: 150px;
         
     }
     form button {
@@ -211,7 +211,7 @@ footer p {
         border: none;
         color: #fff;
         font-size: 24px;
-        padding: 15px;
+        padding: 5px ;
         width: 10%;
     }
 }
